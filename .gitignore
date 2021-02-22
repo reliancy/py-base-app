@@ -1,0 +1,23 @@
+# general things to ignore
+bin/
+build/
+dist/
+tmp/
+log/
+var/
+venv/
+.venv/
+.vscode/
+.azure/
+__pycache__
+.pytest_cache
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+*.log
+.cache
+
+

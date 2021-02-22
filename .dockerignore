@@ -1,0 +1,15 @@
+venv/
+.venv/
+venv_*/
+.venv_*/
+.vscode/
+.git/
+.azure/
+__pycache__
+.pytest_cache
+bin/
+build/
+dist/
+test/
+*.egg-info/
+*.log
